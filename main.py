@@ -14,6 +14,7 @@ app = FastAPI()
 
 ALLOWED_ORIGINS = [
     "https://app-m6507z.example.com",
+    "https://exam.sanand.workers.dev",
 ]
 
 # Set EXAM_ORIGIN in Render to the actual origin of the exam page.
